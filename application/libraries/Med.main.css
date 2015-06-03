@@ -1,0 +1,11 @@
+html {
+	height: 100%
+}
+body {
+	height: 100%;
+}
+.swiper-container {
+	width: 90%;
+	height: 40%;
+	text-align: center;
+}

@@ -1,0 +1,16 @@
+.ui-block-b{
+	font-size:13px;
+	font-weight:lighter;
+	color:#FFFFFF;
+	font-family:"Times New Roman", Times, serif;
+	letter-spacing: 0.2em;
+}
+.ui-block-b b{
+color:#333333;
+font-size:26px;
+
+}
+#headercate{
+background-image:url(/application/resource/images/Catch_02.jpg);
+background-repeat: repeat-x;
+}

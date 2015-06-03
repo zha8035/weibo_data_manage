@@ -1,0 +1,34 @@
+{
+	"button": [
+	{
+		"type": "view",
+		"name": "主页",
+		"url" : "http://59.56.31.116/index.php/book/main"
+	},
+	{
+		"type": "click",
+		"name": "专家咨询",
+		"key" : "key_query"
+	},
+	{
+		"name": "菜单",
+		"sub_button":[
+		{
+			"type":"view",
+			"name":"主页",
+			"url":"http://59.56.31.116/index.php/med/main"
+		},
+		{
+			"type": "click",
+			"name": "贵宾卡",
+			"key" : "key_VIP_card"
+		},
+		{
+			"type": "click",
+			"name": "新闻资讯",
+			"key": "key_med_news"
+		}
+		]
+	}
+	]
+}
